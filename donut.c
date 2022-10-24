@@ -47,7 +47,7 @@ void main()
           z[o] = zz;
           b[o] = ".,-~:;=!*#$@"[N > 0 ? N : 0];
         }
-        R(5, 8, ci, si) // rotate i
+        R(5, 8, ci, si) // rotate i'
       }
       R(9, 7, cj, sj) // rotate j
     }
